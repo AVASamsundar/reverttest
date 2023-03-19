@@ -3,3 +3,7 @@ This is a sample file with,
 line 1
 
 This ia a second commit with line 2
+
+This is a third commit with line 3
+
+This ia a Fourth Commit with Line 4
